@@ -5,7 +5,7 @@
 <p align="left"> A MSC graduate who identifies himself as a business enthusiast and desires to pursue a career in industrial, management,
 analysis and research. Currently looking for opportunities in data-driven roles to develop my skills and problem-solving attributes by being part of a dedicated and motivated team</p>
 
-- 🌐 I’m currently working on [CAcnesDB] Database (http://proline.physics.iisc.ernet.in/CAcnesDB/) A multilevel-modeled computational aid for profiled interactome and targeted
+- 🌐 I’m currently working on [CAcnesDB Database](http://proline.physics.iisc.ernet.in/CAcnesDB/) A multilevel-modeled computational aid for profiled interactome and targeted
 characterization in C. acnes KPA171202
 
 - 👨‍💻 I have worked on Front-End [Pocketdepth](http://proline.physics.iisc.ernet.in/pocketdepth/) A Depth Based Algorithm for Identification of Ligand Binding Sites
