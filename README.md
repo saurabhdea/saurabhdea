@@ -2,8 +2,7 @@
 <h3 align="center">A passionate web developer from India</h3>
 
 
-<p align="left"> A MSC graduate who identifies himself as a business enthusiast and desires to pursue a career in industrial, management,
-analysis and research. Currently looking for opportunities in data-driven roles to develop my skills and problem-solving attributes by being part of a dedicated and motivated team.</p>
+<p align="left"> I work with web tools and system design, seeking employment in the tech sector where I can apply my expertise in software design and customer service..</p>
 
 🌐 <strong>Database Work</strong>
 
