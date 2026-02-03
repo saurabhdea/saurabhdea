@@ -27,7 +27,7 @@ A platform to create, test, and launch Chrome extensions without boilerplate or 
 
 ---
 
-### 🛤️ **Bonvia**
+### 🛤️ **mybonvia**
 **Travel your way. Planned perfectly.**  
 https://mybonvia.com
 
