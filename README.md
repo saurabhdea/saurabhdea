@@ -41,6 +41,6 @@ Practical AI that does real work.
 
 ## Connect
 
-[![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/saurabhdae)
-[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-dey-4950b9152/)
+[![Twitter](https://img.shields.io/badge/-@saurabh-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/saurabhdae)
+[![LinkedIn](https://img.shields.io/badge/-saurabh_dey-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-dey-4950b9152/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saurabhdae)
