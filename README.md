@@ -27,7 +27,7 @@ A platform to create, test, and launch Chrome extensions without boilerplate or 
 
 ---
 
-### 🛤️ **mybonvia**
+### 🛤️ **Bonvia**
 **Travel your way. Planned perfectly.**  
 https://mybonvia.com
 
@@ -98,12 +98,6 @@ I love tools that feel fast, honest, and invisible.
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/your-github-username)
-
----
-
 ## 🧭 What I’m Doing Right Now
 
 - Building emotion-aware AI systems  
@@ -115,8 +109,8 @@ I love tools that feel fast, honest, and invisible.
 
 ## 🔗 Connect
 
-- 🧵 **Twitter / X:** https://twitter.com/yourhandle  
-- 💼 **LinkedIn:** https://linkedin.com/in/yourprofile  
+- 🧵 **X (Twitter):** https://x.com/saurabhdae  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/saurabh-dey-4950b9152/  
 - 🧑‍💻 **GitHub:** https://github.com/your-github-username  
 
 ---
