@@ -16,9 +16,9 @@
 
 ## Current Projects
 
-- 🦞 **[PlugThis](https://plugthis.ai/)** - Build Chrome extensions faster. Ship sooner.
-- 🚇 **[mybonvia](http://mybonvia.com/)** - Travel your way. Planned perfectly.
-- 🎚️ **[sidepilo]()** - Detect emotional signals through conversation  .
+- 🧩 **[PlugThis](https://plugthis.ai/)** - Build Chrome extensions faster. Ship sooner.
+- 🛤️ **[mybonvia](http://mybonvia.com/)** - Travel your way. Planned perfectly.
+- 💕 **[sidepilo]()** - Detect emotional signals through conversation  .
 
 
 ## 🧑‍💻 What I Build
@@ -30,7 +30,7 @@ AI that adapts to *how* a user feels, not just *what* they say.
 - Emotion as signal, not decoration  
 - Support without dependency  
 
---
+
 
 ### 🤖 AI Agents & Automation
 Practical AI that does real work.
@@ -44,5 +44,3 @@ Practical AI that does real work.
 [![Twitter](https://img.shields.io/badge/-@steipete-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/saurabhdae)
 [![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-dey-4950b9152/)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saurabhdae)
-
----
